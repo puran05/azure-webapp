@@ -1,0 +1,25 @@
+{
+  "name": "azure-webapp",
+  "version": "1.0.0",
+  "description": "Azure webapp using nodejs. The beginning phase of the app is to collect the input and show it on the consloe Later it will be stored in the mongodb database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puran05/azure-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puran05/azure-webapp/issues"
+  },
+  "homepage": "https://github.com/puran05/azure-webapp#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
